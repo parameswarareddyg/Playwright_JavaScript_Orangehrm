@@ -13,15 +13,21 @@ node -v
 npm -v
 
 ✅ 2. Create a Project
+
 mkdir playwright-project
+
 cd playwright-project
+
 npm init -y
+
 ✅ 3. Install Playwright
+
 npm install -D @playwright/test
 
 Install browsers:
 
 npx playwright install
+
 ✅ 4. Create First Test
 
 Create file: tests/example.spec.js
