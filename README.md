@@ -9,6 +9,7 @@ Node.js
 Verify installation:
 
 node -v
+
 npm -v
 
 ✅ 2. Create a Project
