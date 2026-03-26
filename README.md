@@ -64,6 +64,7 @@ Replay tests
 npx playwright test tests/example.spec.js
 
 ✅ 8. Run in Headed Mode (see browser)
+
 npx playwright test --headed
 
 ✅ 9. Generate HTML Report
